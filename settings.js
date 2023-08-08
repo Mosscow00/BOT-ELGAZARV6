@@ -22,16 +22,16 @@ global.socialm = "GitHub: ELGAZAR" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
+global.ownernomer = "201033757279" //ur number
+global.premium = ['201033757279'] //ur premium number
+global.botname = 'MosscowBot' //ur bot name
+global.linkz = "https://youtube.com/@imosscow" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.botscript = 'https://youtube.com/@imosscow' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "يوسف يخويا" //ur sticker watermark packname
+global.author = "⍣01033757279" //ur sticker watermark author
+global.wm = "mosscow" //ur watermark
 
 // Other
 global.sessionName = 'session'
